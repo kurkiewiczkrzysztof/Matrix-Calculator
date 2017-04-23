@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\bin\Debug\KalkMacierzy.exe.config
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\bin\Debug\KalkMacierzy.exe
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\bin\Debug\KalkMacierzy.pdb
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\bin\Debug\KalkMacierzyLib.dll
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\bin\Debug\KalkMacierzyLib.pdb
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\obj\Debug\KalkMacierzy.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\obj\Debug\KalkMacierzy.Dodawanie.resources
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\obj\Debug\KalkMacierzy.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\obj\Debug\KalkMacierzy.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\obj\Debug\KalkMacierzy.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\obj\Debug\KalkMacierzy.exe
+c:\users\user\documents\visual studio 2015\Projects\KalkMacierzy\KalkMacierzy\obj\Debug\KalkMacierzy.pdb

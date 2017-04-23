@@ -1,0 +1,10 @@
+﻿  KalkMacierzyLib.cpp
+c:\users\user\documents\visual studio 2015\projects\kalkmacierzylib\kalkmacierzylib\KalkMacierzyLib.h(43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\kalkmacierzylib\kalkmacierzylib\KalkMacierzyLib.h(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\kalkmacierzylib\kalkmacierzylib\KalkMacierzyLib.h(44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\kalkmacierzylib\kalkmacierzylib\KalkMacierzyLib.h(50): warning C4101: 'wynik': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\kalkmacierzylib\kalkmacierzylib\kalkmacierzylib.h(69): warning C4715: 'KalkMacierzyLib::Class1::WyznacznikMacierzy': not all control paths return a value
+  .NETFramework,Version=v4.6.AssemblyAttributes.cpp
+     Creating library C:\Users\USER\Documents\Visual Studio 2015\Projects\KalkMacierzyLib\x64\Release\KalkMacierzyLib.lib and object C:\Users\USER\Documents\Visual Studio 2015\Projects\KalkMacierzyLib\x64\Release\KalkMacierzyLib.exp
+  KalkMacierzyLib.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\KalkMacierzyLib\x64\Release\KalkMacierzyLib.dll
+  KalkMacierzyLib.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\KalkMacierzyLib\x64\Release\KalkMacierzyLib.pdb (Full PDB)
